@@ -6,7 +6,7 @@ import SearchForm from './SearchForm/SearchForm';
 import ContactList from './ContactList/ContactList';
 import s from './App.module.css';
 
-const LOCAL_KEY = 'Task03/contacts';
+const LOCAL_KEY = 'Task03/contacts ';
 
 export class App extends Component {
   state = {
